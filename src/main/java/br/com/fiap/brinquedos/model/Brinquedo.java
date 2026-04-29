@@ -7,6 +7,7 @@ import jakarta.persistence.*;
 public class Brinquedo {
 
     @Id
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
 
     private String nome;
@@ -14,6 +15,4 @@ public class Brinquedo {
     private Integer classificacao;
     private String tamanho;
     private Double preco;
-
-
 }
