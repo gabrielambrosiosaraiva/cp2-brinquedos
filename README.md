@@ -177,6 +177,6 @@ A aplicação está configurada com `spring.jpa.hibernate.ddl-auto=update`, perm
 
 ## 📎 Repositório
 
-Adicionar link do GitHub aqui.
+https://github.com/gabrielambrosiosaraiva/cp2-brinquedos
 
 ---
